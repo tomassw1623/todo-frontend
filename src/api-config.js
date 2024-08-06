@@ -9,3 +9,4 @@ if(hostname === "localhost") {
 }
 
 export const API_BASE_URL = `${backendHost}`;
+// 테스트
